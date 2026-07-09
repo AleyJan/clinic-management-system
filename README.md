@@ -26,7 +26,7 @@ ClinicAI replaces the paper-and-WhatsApp workflow of a small clinic with a singl
 
 | | |
 | --- | --- |
-| **Frontend** | Deployed on Vercel / Netlify (see `client/vercel.json`, `client/netlify.toml`) |
+| **Frontend** | Deployed on Vercel | https://clinic-management-system-v5je.vercel.app/login |
 | **Backend** | Express API on Vercel (`backend/vercel.json`) |
 
 **Demo credentials** (seeded in the database):
