@@ -7,8 +7,8 @@
 | **Project Name** | ClinicAI |
 | **One-liner** | A single system where a clinic's four roles — admin, doctor, receptionist, patient — share one source of truth, with an LLM symptom checker that converts free-text complaints into structured, risk-rated diagnostic suggestions. |
 | **GitHub** | _<add your repo URL>_ |
-| **Live Demo** | Vercel (API + web) / Netlify (web) — deploy configs committed in `client/` and `backend/` |
-| **Team Size** | Solo / small team |
+| **Live Demo** | https://clinic-management-system-v5je.vercel.app/ |
+| **Team Size** | Solo |
 | **Role** | Full-stack (MERN) + AI integration |
 | **Timeline** | Hackathon build (part-time) |
 
